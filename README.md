@@ -1,5 +1,5 @@
 # Applicaiton-launcher
-This is a simple gui test with appjar, it does what it needs to and that's about it
+This is a simple application with appjar, designed to find all applications within a folder and organize them into a GUI that can be launched 
 
 - Version 0.1
 - add or remove files or folders locations to a DATA file
